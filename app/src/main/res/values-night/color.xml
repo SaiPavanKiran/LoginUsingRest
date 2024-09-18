@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="apple_logo_color">#FFFFFF</color>
+    <color name="text_field_container">#3A3A3A</color>
+    <color name="placeholder_unfocused_color">#777777</color>
+    <color name="placeholder_focused_color">#FFFFFF</color>
+    <color name="green">#B34BA25F</color>
+    <color name="red">#B2D5715B</color>
+    <color name="yellow">#B2F8C569</color>
+    <color name="back_arrow">#F4F3F2</color>
+    <color name="exit_image_color">#F4F3F2</color>
+</resources>
