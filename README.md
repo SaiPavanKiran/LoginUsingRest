@@ -71,19 +71,20 @@ To use this app effectively, make sure the following conditions are met:
    ```bash
    git clone https://github.com/your-username/login-signup-app.git
    cd login-signup-app
-```
+   ```
 
-2. **Open the Project in Android Studio**  
+
+3. **Open the Project in Android Studio**  
     Launch Android Studio and open the project by navigating to the cloned repository folder.
     
-3. **Install Dependencies**  
+4. **Install Dependencies**  
     Ensure all required SDKs, libraries, and dependencies (like Retrofit) are installed. Android Studio will notify you if anything is missing.
     
-4. **Build the Project**
+5. **Build the Project**
     
     - Go to the `Build` menu and select `Rebuild Project`.
     - Make sure there are no errors during the build process.
-5. **Run the App**
+6. **Run the App**
     
     - Connect your Android device or open an emulator.
     - Click the `Run` button or use the `Shift + F10` shortcut to launch the app on your selected device.
@@ -144,10 +145,9 @@ We encourage contributions from the community! Here's how you can contribute to 
     
 2. **Create a New Branch**  
     Create a new branch for your feature or bug fix:
-
-```bash
-git checkout -b feature-name
-```
+   ```bash
+   git checkout -b feature-name
+   ```
 
     
 3. **Make Your Changes**  
@@ -155,18 +155,15 @@ git checkout -b feature-name
     
 4. **Commit Your Changes**  
     Commit your changes with a descriptive message:
+   ```bash
+ 	git commit -m "Implemented feature X or fixed bug Y"
+   ```
 
-	```bash  
- git commit -m "Implemented feature X or fixed bug Y"
-	    ```
-
-5. **Push Your Changes**  
+6. **Push Your Changes**  
     Push your branch to your repository:
-
- ```bash
- git push origin feature-name
- 
-```
+   ```bash
+ 	git push origin feature-name
+   ```
 
 6. **Submit a Pull Request**  
     Go to the original repository on GitHub and submit a pull request. Provide details about the changes you made.
